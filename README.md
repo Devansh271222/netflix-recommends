@@ -18,13 +18,4 @@ A content-based Netflix recommendation system built with Python, TF-IDF, and cos
 - `netflix_titles.csv` — Netflix dataset
 - `requirements.txt` — Python dependencies
 
-## Run locally
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-## Deploy
-
-Upload these files to a GitHub repository and deploy the repository using Streamlit Community Cloud.
